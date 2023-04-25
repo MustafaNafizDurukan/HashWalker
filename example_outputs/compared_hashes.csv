@@ -1,0 +1,5 @@
+Type,Path,MD5
+Modified_New,pkg\hasher\hasher.go,fab1080aa58eed7db5e3e5c454a8b474_changedonpurpose
+Modified_Old,pkg\hasher\hasher.go,fab1080aa58eed7db5e3e5c454a8b474
+Deleted,go.mod,5c65a54ada6ae4111be72557a986a93f
+Added,file_hashes.csv,df3da834e11fc59aa363518ad1e2aa7e

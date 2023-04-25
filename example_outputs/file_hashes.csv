@@ -1,0 +1,8 @@
+Path,MD5
+main.go,e47585ddfcb76cd60bdceb7ba7c94f45
+pkg\constants\constants.go,e4d57aff15c5ecaff92ade1c5692650a
+pkg\csv\csv.go,e78def9c70cfa40154a04d73e0d6bb4c
+pkg\hasher\hasher.go,fab1080aa58eed7db5e3e5c454a8b474
+.vscode\launch.json,4479583e7cf50eb58ed69d57ebf1ddfd
+__debug_bin.exe,4cef051de2136103cc22e5f83fa9e344
+go.mod,5c65a54ada6ae4111be72557a986a93f
